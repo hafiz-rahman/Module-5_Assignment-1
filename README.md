@@ -2,7 +2,7 @@
    
 Create a Personal Profile Card -
 
-File Name - "profile_card.html" and used external CSS file for styling.
+      File Name - "profile_card.html" and used external CSS file for styling.
 
     i. HTML file created with the basic structure 
        (<!DOCTYPE html>, <html>, <head>, <title>, <body>).
@@ -23,7 +23,7 @@ File Name - "profile_card.html" and used external CSS file for styling.
 
  Finding the largest number using PHP -
 
- File Name - "largest_number.php"
+    File Name - "largest_number.php"
 
     i. Three given numbers are:
               
@@ -37,7 +37,7 @@ File Name - "profile_card.html" and used external CSS file for styling.
 
  Celsius to Fahrenheit Conversion -
 
-File Name - "celsius_to_fahrenheit.php"
+      File Name - "celsius_to_fahrenheit.php"
 
 Writing a PHP script to convert temperature from Celsius to Fahrenheit -
          
