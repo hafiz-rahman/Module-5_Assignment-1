@@ -39,7 +39,7 @@ Create a Personal Profile Card -
 
       File Name - "celsius_to_fahrenheit.php"
 
-Writing a PHP script to convert temperature from Celsius to Fahrenheit -
+      Writing a PHP script to convert temperature from Celsius to Fahrenheit -
          
     i. Given temperature is 32 degrees Celsius.
     ii. Printed the result using the "printf" function and the result 
