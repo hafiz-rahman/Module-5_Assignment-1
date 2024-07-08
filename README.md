@@ -18,10 +18,11 @@ iii. Profile card included the following contents (Must-have items):
 iv. It is ensured that the profile card is centered both horizontally
     and vertically on the page.
 
-2./*----- Task 2 -----*/
-  Finding the largest number using PHP -
+2. /*----- Task 2 -----*/
 
- File Name - "largest_number.php"
+ Finding the largest number using PHP -
+
+    File Name - "largest_number.php"
 
 i. Three given numbers are:
 
@@ -32,9 +33,11 @@ i. Three given numbers are:
 ii. Used - "if-else" statements.
 
 3. /*----- Task 3 -----*/
+
  Celsius to Fahrenheit Conversion -
 
   File Name - "celsius_to_fahrenheit.php"
+      File Name - "celsius_to_fahrenheit.php"
 
   Writing a PHP script to convert temperature from Celsius to Fahrenheit -
 
